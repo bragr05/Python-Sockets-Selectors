@@ -1,6 +1,6 @@
 # Sockets example in Python
 
-This is an example of sockets code using selectors in Python taken from the Real [Python website](https://realpython.com/python-sockets/).
+This is an example of sockets code using selectors in Python taken from the [Real Python website](https://realpython.com/python-sockets/).
 
 **Original Author:** Nathan Jennings 
 
